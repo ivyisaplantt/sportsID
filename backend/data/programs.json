@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Youth Soccer League",
+    "ageRange": "8-12",
+    "price": 120,
+    "location": "Atlanta Sports Park"
+  },
+  {
+    "id": 2,
+    "name": "Junior Basketball Camp",
+    "ageRange": "10-14",
+    "price": 95,
+    "location": "Midtown Rec Center"
+  }
+]
