@@ -48,6 +48,11 @@ A comprehensive sports registration platform that connects families with local s
    npm run dev
    ```
 
+   Note that you may also use the given script
+   ```python
+   python start_app.py
+   ```
+
 4. **Access the application**
    - Frontend: http://localhost:3000
    - Backend API: http://localhost:5000
