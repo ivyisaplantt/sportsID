@@ -1,6 +1,7 @@
 # Unified Sports Registration System (USRS)
 
 USRS is a full-stack web platform that simplifies family sports registration by consolidating multiple sports organizations into one unified portal. Families can register, manage, and track their sports programs seamlessly from a single dashboard.
+
 MVP for the RegisterX SportsID Intern Project Fall 2025
 
 ---
