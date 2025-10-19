@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom styling */
+body {
+  @apply bg-white text-gray-900 font-sans;
+}
+
+button {
+  @apply px-4 py-2 rounded-lg font-semibold transition-colors duration-200;
+}
