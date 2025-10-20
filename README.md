@@ -40,6 +40,7 @@ A comprehensive sports registration platform that connects families with local s
    # Backend
    cd backend
    source venv/bin/activate
+   pip install -r requirements.txt
    python app.py
 
    # Frontend (in another terminal)
